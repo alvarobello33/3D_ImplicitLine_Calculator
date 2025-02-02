@@ -1,6 +1,6 @@
 # 📌 3D Line Finder Calculator
 
-A simple program made in JAvascript that extracts a **point** and a **direction vector** from the implicit equation of a line in 3D space.
+A simple program made in Javascript that extracts a **point** and a **direction vector** from the implicit equation of a line in 3D space.
 
 ---
 
